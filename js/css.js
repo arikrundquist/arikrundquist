@@ -7,5 +7,5 @@ function initDark() {
     }
 }
 function toggleDark() {
-    document.getElementsByTagName("html")[0].classList.toggle("dark");
+    document.documentElement.classList.toggle("dark");
 }
