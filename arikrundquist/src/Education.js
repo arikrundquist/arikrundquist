@@ -9,7 +9,8 @@ function Education() {
         <li>
           <a href='https://www.sisucinemarobotics.com/'>
             <h3>Software Engineer at SISU</h3>
-            <p>2018 - Preset</p>
+            <p>Developed applications using LabVIEW to simplify industrial robot programming for a number of applications, including pick-n-place, welding, and cinematography. Click to learn more.</p>
+            <p>2018 - Present</p>
           </a>
         </li>
         <li>
