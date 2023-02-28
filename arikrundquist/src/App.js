@@ -1,16 +1,9 @@
+import Lister from "./Lister";
+import ProjectCard from "./ProjectCard";
 
-import React from 'react';
+function App() {
 
-// import Header from "./Header"
-
-class App extends React.Component {
-
-  render() {
-    return <div>
-      Here!
-    </div>;
-  }
-
+  return Lister(ProjectCard, require("./projects.json"));
 }
 
-export default App
+export default App;
