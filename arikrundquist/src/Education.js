@@ -7,9 +7,9 @@ function Education() {
       <h2>Education and Experience</h2>
       <ul>
         <li>
-          <a href='https://www.sisucinemarobotics.com/'>
+          <a href='https://www.sisucinemarobotics.com/' target="_blank" rel="noopener noreferrer">
             <h3>Software Engineer at SISU</h3>
-            <p>Developed applications using LabVIEW to simplify industrial robot programming for a number of applications, including pick-n-place, welding, and cinematography. Click to learn more.</p>
+            <p>Developed applications using LabVIEW to simplify industrial robot programming for a number of applications, including pick-n-place, welding, and cinematography.<br />Click to learn more.</p>
             <p>2018 - Present</p>
           </a>
         </li>

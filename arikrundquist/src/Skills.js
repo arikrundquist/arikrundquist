@@ -6,7 +6,7 @@ import Skill from './Skill';
 function Skills() {
   return (
     <section id="skills">
-      <h2>My Skills</h2>
+      <h2>Skills</h2>
       <ul>{Lister(Skill, require("./skills.json"))}</ul>
     </section>
   );

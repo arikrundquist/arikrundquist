@@ -2,7 +2,6 @@ import Header from "./Header";
 import Hero from "./Hero";
 import Projects from "./Projects";
 import Education from "./Education";
-import Interests from "./Interests";
 import Skills from "./Skills";
 
 function App() {
@@ -10,10 +9,11 @@ function App() {
   return (
     <div>
       <Hero />
-      <Projects />
-      <Interests />
-      <Skills />
-      <Education />
+      <div id="main">
+        <Projects />
+        <Skills />
+        <Education />
+      </div>
     </div>
   );
 }

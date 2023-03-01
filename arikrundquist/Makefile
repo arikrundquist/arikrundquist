@@ -1,9 +1,14 @@
 
+PRODUCTION_FILES=$(filter-out ../arikrundquist,$(wildcard ../*))
+
 run:
 	npm start
 
-build:
+build: clean
 	npm run build
 	cp -r build/* ..
 
-.PHONY: run build
+clean:
+	-rm -r $(PRODUCTION_FILES)
+
+.PHONY: run build clean
