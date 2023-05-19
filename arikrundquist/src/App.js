@@ -7,7 +7,7 @@ import Skills from "./Skills";
 function App() {
 
   return (
-    <div>
+    <div id="app">
       <Hero />
       <div id="main">
         <Projects />
