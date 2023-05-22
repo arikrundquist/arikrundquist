@@ -6,6 +6,7 @@ run:
 
 build: clean
 	npm run build
+	chmod 777 build/* -R
 	cp -r build/* ..
 
 clean:
