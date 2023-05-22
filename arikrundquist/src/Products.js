@@ -3,7 +3,7 @@ import React from 'react';
 
 function Products() {
 
-  let Parser = require('rss-parser');
+  /*let Parser = require('rss-parser');
   let parser = new Parser();
 
   (async () => {
@@ -19,7 +19,7 @@ function Products() {
     console.log(e);
   }
   
-  })();
+  })();*/
 
   return (
     <section id="products">
