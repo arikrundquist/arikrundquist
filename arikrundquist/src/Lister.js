@@ -1,4 +1,6 @@
 
+import React from 'react';
+
 let counter = 0;
 
 const Lister = (Module, objs) => {

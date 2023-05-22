@@ -1,38 +1,14 @@
 [
     {
         "image": "https://placehold.it/150x150",
-        "title": "title",
-        "description": "...",
+        "title": "Bus conversion",
+        "description": "Currently converting a short bus into a tiny home on wheels",
         "link": "https://placehold.it/150x150"
     },
     {
         "image": "https://placehold.it/150x150",
-        "title": "title2",
-        "description": "...",
-        "link": "https://placehold.it/150x150"
-    },
-    {
-        "image": "https://placehold.it/150x150",
-        "title": "title2",
-        "description": "...",
-        "link": "https://placehold.it/150x150"
-    },
-    {
-        "image": "https://placehold.it/150x150",
-        "title": "title2",
-        "description": "...",
-        "link": "https://placehold.it/150x150"
-    },
-    {
-        "image": "https://placehold.it/150x150",
-        "title": "title2",
-        "description": "...",
-        "link": "https://placehold.it/150x150"
-    },
-    {
-        "image": "https://placehold.it/150x150",
-        "title": "title2",
-        "description": "...",
-        "link": "https://placehold.it/150x150"
+        "title": "Procedural generation in WebGL",
+        "description": "Infinite terrain using tensor product splines and voxel trees using randomized L-systems",
+        "link": "https://www.cs.utexas.edu/~arikrund/minecraft/"
     }
 ]
