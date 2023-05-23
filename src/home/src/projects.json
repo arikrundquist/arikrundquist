@@ -1,6 +1,12 @@
 [
     {
         "image": "https://placehold.it/150x150",
+        "title": "This site ;)",
+        "description": "Built using React... feel free to check out the source",
+        "link": "https://github.com/arikrundquist/arikrundquist"
+    },
+    {
+        "image": "https://placehold.it/150x150",
         "title": "Bus conversion",
         "description": "Currently converting a short bus into a tiny home on wheels",
         "link": "https://placehold.it/150x150"

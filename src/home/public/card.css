@@ -9,6 +9,7 @@
   max-width: 3in;
   margin-left: 1em;
   margin-right: 1em;
+  flex: 1;
 }
 
 .CardImage {
