@@ -7,9 +7,10 @@ run:
 build: clean
 	npm run build
 #	chmod 777 build/* -R
-	cp -r build/* ..
+#	cp -r build/* ..
 
 clean:
-	-rm -r $(PRODUCTION_FILES)
+	echo nothing to do
+#	-rm -r $(PRODUCTION_FILES)
 
 .PHONY: run build clean

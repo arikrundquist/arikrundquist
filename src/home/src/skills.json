@@ -1,0 +1,18 @@
+[
+    {
+        "title": "LabVIEW",
+        "description": "Expert: primary language used at SISU (see below)."
+    },
+    {
+        "title": "C/C++",
+        "description": "Proficient: wrote an ARM emulator in C and a basic operating system in C++ as part of standard curriculum."
+    },
+    {
+        "title": "Python",
+        "description": "Proficient: used multiple machine learning libraries to implement algorithms for artificial intelligence, including decision trees and neural networks; also wrote several tools to interface between Unreal Engine and Maya."
+    },
+    {
+        "title": "Spanish",
+        "description": "Competent: spent three months in Mexico and Argentina prior to the pandemic."
+    }
+]
