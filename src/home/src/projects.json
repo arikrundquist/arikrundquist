@@ -6,15 +6,22 @@
         "link": "https://github.com/arikrundquist/arikrundquist"
     },
     {
-        "image": "https://placehold.it/150x150",
-        "title": "Bus conversion",
-        "description": "Currently converting a short bus into a tiny home on wheels",
-        "link": "https://placehold.it/150x150"
+        "image": "squarebattle.png",
+        "title": "Square Battle",
+        "description": "A C/C++ expansion of the Labview SquareBattle by Endigit",
+        "link": "https://github.com/arikrundquist/SquareBattle",
+        "required": true
     },
     {
         "image": "https://placehold.it/150x150",
         "title": "Procedural generation in WebGL",
         "description": "Infinite terrain using tensor product splines and voxel trees using randomized L-systems",
         "link": "https://www.cs.utexas.edu/~arikrund/minecraft/"
+    },
+    {
+        "image": "https://placehold.it/150x150",
+        "title": "Bus conversion",
+        "description": "Currently converting a short bus into a tiny home on wheels",
+        "link": "https://placehold.it/150x150"
     }
 ]
