@@ -6,6 +6,12 @@
         "link": "https://github.com/arikrundquist/arikrundquist"
     },
     {
+        "image": "https://placehold.it/150x150",
+        "title": "No-Scroll Instagram",
+        "description": "Coming soon: Firefox extension to remove reels and the explore page of the mobile instagram webpage",
+        "link": "https://addons.mozilla.org/en-US/firefox/addon/no-scrolling-on-instagram/"
+    },
+    {
         "image": "squarebattle.png",
         "title": "Square Battle",
         "description": "A C/C++ expansion of the Labview SquareBattle by Endigit",
@@ -15,7 +21,7 @@
     {
         "image": "https://placehold.it/150x150",
         "title": "Procedural generation in WebGL",
-        "description": "Infinite terrain using tensor product splines and voxel trees using randomized L-systems",
+        "description": "Infinite terrain using tensor product splines and voxel trees using randomized L-systems (desktop only)",
         "link": "https://www.cs.utexas.edu/~arikrund/minecraft/"
     },
     {
