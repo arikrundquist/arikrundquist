@@ -1,8 +1,8 @@
 {
-  "manifest_version": 3,
+  "manifest_version": 2,
   "name": "No Scrolling on Instagram",
   "description": "This extension removes the explore and reels section of the instagram webpage to make it more difficult to waste time on the app.",
-  "version": "1.0",
+  "version": "1.1",
   "content_scripts": [
     {
       "js": ["no-scroll.js"],
