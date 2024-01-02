@@ -14,29 +14,21 @@ header('Pragma: no-cache');
 
 function handleRequest() {
 
-    $status = "Success!";
-    $status_code = 200;
-
     // load sql credentials from non-public ini
     $config = parse_ini_file("../../.env", true);
     if(empty($config["rush-hour"])) {
-        $status = "Missing or invalid configuration";
-        $status_code = 500;
+        echo "Missing or invalid configuration";
+        return 500;
     }
     $rushhour = $config["rush-hour"];
     if(empty($rushhour["user"]) || empty($rushhour["pass"])) {
-        $status = "Missing sql username or password";
-        $status_code = 500;
+        echo "Missing sql username or password";
+        return 500;
     }
     $user = $rushhour["user"];
     $pass = $rushhour["pass"];
 
-    echo """
-    {
-        \"status\": \"$status!\",
-        \"code\": $status_code
-    }
-    """;
+    echo "Success!";
     return 200;
 }
 
